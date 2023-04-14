@@ -1,0 +1,23 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  Maintenance database: postgres
+  username: postgres
+  password: 12@34
+  host: localhost
+  port: 5432
+
+development:
+  <<: *default
+  database: carRental
+
+test:
+  <<: *default
+  database: carRental_test
+
+production:
+  <<: *default
+  database: carRental_production
+  username: carRental
+  password: <%= ENV["CARRENTAL_DATABASE_PASSWORD"] %>
