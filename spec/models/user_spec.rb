@@ -15,7 +15,7 @@ RSpec.describe User, type: :model do
         it { should validate_presence_of(:password) }
   end
 
-  describe 'asscociations' do
+  describe 'Asscociations' do
         it { should have_many(:cars).through(:reservations) }
         it { should have_many(:reservations) }
   end
