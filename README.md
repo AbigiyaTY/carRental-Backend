@@ -93,7 +93,7 @@ In order to run this project you need
 
 ```sh
  VS code editor
- web browswe(chrome Firefox Opera etc)
+ Web browser(chrome Firefox Opera etc)
  gem install rails
 ```
 
