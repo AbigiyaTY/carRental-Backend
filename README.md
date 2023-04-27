@@ -141,9 +141,9 @@ To run tests, please run this command
 ```
 For specific file
 
-$ rspec ./spec/#{filename}_spec.rb 
+$ rspec ./spec/#{filename}.rb 
 
-To run for the whole test
+For the whole file
 
 $ rspec 
 
