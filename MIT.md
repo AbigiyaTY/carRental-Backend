@@ -1,7 +1,5 @@
 ## Copyright 2023, [Abigiya Tadesse]
 
-###### Car Rental can be a webpage/website, a web app, a software and so on
-
 Permission is hereby granted, free of charge, to any person obtaining a copy of this Car Rental and associated documentation files, to deal in the Car Rental without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Car Rental, and to permit persons to whom the Car Rental is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Car Rental.
