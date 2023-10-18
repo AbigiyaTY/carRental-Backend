@@ -29,12 +29,6 @@
 - **Car Rental** is a  car rental application that used React for Front-End and Ruby on Rails for Back-End.
 - **Car Rental Backend** is Backend API for a car rental application. It is written in Ruby on Rails and uses JWT for authentication. The API provides endpoints for creating, updating, and deleting cars, as well as for reserving and returning cars. It also provides an endpoint for getting the current status of a car. 
 
-## Project Documentation 📄
-
-- [x] Here is the [Frontend Project Link](https://github.com/AbigiyaTY/carRental-FrontEnd.git)👈
-
-- [x] [API Documentation Link Coming Soon](https://google.com)
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
