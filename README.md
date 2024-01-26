@@ -56,10 +56,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Create, update, and delete cars]**
-- **[Reserve and return cars]**
-- **[Get the current status of a car]**
-- **[Authentication with JWT]**
+- **Create, update, and delete cars**
+- **Reserve and return cars**
+- **Get the current status of a car**
+- **Authentication with JWT**
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
