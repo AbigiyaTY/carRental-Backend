@@ -152,10 +152,10 @@ $ rspec
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Improve security]** - Improve security
-- [ ] **[Delploy the app]** - Delploy the app
-- [ ] **[Add testes ]** -  Add testes
-- [ ] **[Write documentation]** -Write documentation
+- [ ] **Improve security**
+- [ ] **Delploy the app**
+- [ ] **Add testes**
+- [ ] **Write documentation** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
