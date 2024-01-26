@@ -4,12 +4,10 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Car-Rental\] ](#-car-rental-)
-  - [Project Documentation 📄](#project-documentation-)
+- [ Car-Rental ](#-car-rental-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -24,10 +22,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Car-Rental] <a name="about-project"></a>
+# 📖 Car-Rental <a name="about-project"></a>
 
 - **Car Rental** is a  car rental application that used React for Front-End and Ruby on Rails for Back-End.
-- **Car Rental Backend** is Backend API for a car rental application. It is written in Ruby on Rails and uses JWT for authentication. The API provides endpoints for creating, updating, and deleting cars, as well as for reserving and returning cars. It also provides an endpoint for getting the current status of a car. 
+- **Car Rental Backend** is Backend REST API for a car rental application. It is written in Ruby on Rails and uses JWT for authentication. The API provides endpoints for creating, updating, and deleting cars, as well as for reserving and returning cars. It also provides an endpoint for getting the current status of a car. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
